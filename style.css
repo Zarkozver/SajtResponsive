@@ -200,6 +200,10 @@ body{
 .elwrap{
     position: relative;
 }
+.el img{
+    width:96px;
+    height:96px;
+}
 .eltitle{
     position: absolute;
     font-size: 25px;
