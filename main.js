@@ -45,4 +45,5 @@ let sen = true;
                     margin:10,
                     nav:true
                 });
+            $('.banner-wrap').parallax();
 });
